@@ -1,0 +1,10 @@
+# By Slluxx
+#
+# Block nintendo yourself
+# Easy to use for using your own DNS
+#
+# Information from 90DNS and 4TU-DNS
+
+95.216.149.205 90dns.test
+95.216.149.205 conntest.nintendowifi.net
+95.216.149.205 ctest.cdn.nintendo.net
