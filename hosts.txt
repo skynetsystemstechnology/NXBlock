@@ -17,8 +17,6 @@
 127.0.0.1 aqua.hac.lp1.d4c.nintendo.net
 127.0.0.1 receive-lp1.er.srv.nintendo.net
 127.0.0.1 superfly.hac.lp1.d4c.nintendo.net
-127.0.0.1 nintendo.net
-127.0.0.1 nintendowifi.net
 127.0.0.1 nus.cdn.c.shop.nintendowifi.net
 127.0.0.1 nus.cdn.shop.wii.com
 127.0.0.1 nus.cdn.wup.shop.nintendo.net
@@ -27,6 +25,8 @@
 127.0.0.1 c.shop.nintendowifi.net
 127.0.0.1 cbvc.cdn.nintendo.net
 127.0.0.1 cbvc.nintendo.net
+127.0.0.1 nintendowifi.net
+127.0.0.1 nintendo.net
 127.0.0.1 nintendo.com
 127.0.0.1 nintendo.co.uk
 127.0.0.1 nintendo-europe.com
@@ -56,4 +56,3 @@
 127.0.0.1 nintendo.se
 127.0.0.1 nintendo.ch
 127.0.0.1 nintendo-europe.com
-127.0.0.1 nintendowifi.net
