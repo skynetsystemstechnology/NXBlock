@@ -5,9 +5,7 @@
 #
 # Information from 90DNS and 4TU-DNS
 
-95.216.149.205 90dns.test
-95.216.149.205 conntest.nintendowifi.net
-95.216.149.205 ctest.cdn.nintendo.net
+
 127.0.0.1 atumn.hac.lp1.d4c.nintendo.net
 127.0.0.1 atum.hac.lp1.d4c.nintendo.net
 127.0.0.1 dauth-lp1.ndas.srv.nintendo.net
