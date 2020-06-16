@@ -6,6 +6,8 @@
 # Information from 90DNS and 4TU-DNS
 
 
+127.0.0.1 aauth-lp1.ndas.srv.nintendo.net
+127.0.0.1 app-a01.lp1.npns.srv.nintendo.net
 127.0.0.1 atumn.hac.lp1.d4c.nintendo.net
 127.0.0.1 atum.hac.lp1.d4c.nintendo.net
 127.0.0.1 dauth-lp1.ndas.srv.nintendo.net
